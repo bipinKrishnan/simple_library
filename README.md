@@ -1,3 +1,3 @@
 <div align="center">
-  <h1>Simple Library</h1>
+  <h3>Simple Library</h3>
 </div>
