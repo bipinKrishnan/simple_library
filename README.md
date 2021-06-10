@@ -1,4 +1,4 @@
 <div align="center">
-  <h2>Simple Library</h2>
-  <b>A simple hello world</b>
+  <h3>Simple Library</h3>
+  <b>A simple hello world library</b>
 </div>
