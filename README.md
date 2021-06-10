@@ -1,4 +1,4 @@
-<h3>Simple Library</h3>
+<h1>Simple Library</h1>
 <b>A simple hello world library</b>
 <br></br>
 
